@@ -1,4 +1,4 @@
 
 
 # 2026
-let's do 
+let's
